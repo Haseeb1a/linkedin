@@ -1,0 +1,219 @@
+.np{
+    background-color:red;
+    color: blue;
+    width: 10px;
+}
+body{
+    margin: 0;
+}
+.up{
+    background-color: aqua;
+}
+.ep{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    position: absolute;
+    width: 700px;
+    margin-left: 140px;
+    margin-top:-600px;
+}
+.op{
+    padding: 50px;
+    margin-top: 100px;
+    top: 100px;
+    position: relative;
+    left: 130px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    
+    
+
+    
+}
+h1{
+    color:#8d4f19;
+    margin-top: 5px;
+    position:absolute;
+    left: 180px;
+    top: 120px;
+    font-weight: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.xp{
+    color: blue;
+}
+.xp:hover{
+    color:rgb(24, 24, 70) ;
+}
+
+.vp{
+    background-color:#0a66c2;
+    width: 170px;
+    border-radius:16px;
+    color:white;
+    width: 270px;
+    height: 37px;
+    width: 400px;
+    height: 50px;
+    border: none;
+
+}
+.vp:hover{
+    background-color: rgb(49, 49, 125);
+}
+.bp{
+    width: 170px;
+    border-radius:16px;
+    width: 270px;
+    height: 37px;
+    background-color: white;
+    width: 400px;
+    height: 50px;
+}
+.mp{
+    width: 270px;
+    border-radius:16px;
+    height: 37px;
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    
+    
+    
+
+}
+.pp{
+    position: absolute;
+    top:0px;
+    width: 100px;
+    height: 50px;
+    left: 180px;
+}
+.em{
+    height: 30px ;
+    outline: 0px solid;
+    border-radius:4px;
+    width: 400px;
+    height: 50px;
+
+}
+.pa{
+    height: 30px;
+    outline: px solid;
+    border-radius:4px;
+    width: 400px;
+    height: 50px;
+}
+a{ margin-left: 700px;
+    left: 40px;
+    color: black;
+
+}
+.rr{
+    margin-left: 685px;
+    margin-top: -8px;
+    position:absolute;
+}
+.ls{
+    margin-left: -15px;
+    margin-top: -px;
+    position:absolute;
+
+}
+.sp{
+    margin-left: 650px;
+    position: absolute;
+    color: black;
+    margin-top: -15px;
+}
+.hp{margin-left: 840px;
+    position: absolute;
+    color: black;
+    margin-top: -15px;
+
+}
+.jp{ margin-left: -14px;
+    margin-top: -1px;
+    position:absolute;
+
+}
+.wp{
+    margin-left: 920px;
+    position: absolute;
+    color: black;
+    margin-top: -15px;
+
+}
+.kp{ margin-left: px;
+    margin-top: 0px;
+    position:absolute;
+
+    
+
+
+}
+.text{
+    position: absolute;
+    top: -230px;
+    left:940px;
+    color: black;
+    background-color: white;
+    width:80px;
+    border-radius:20px;
+    height: 40px;
+    border: none;
+}
+.sin{
+    background-color:white;
+    position: relative;
+    border-radius:20px;
+    color:#0a66c2;
+    width: 80px;
+    height: 40px;
+    border-color:#0a66c2;
+    margin: 1px;
+    top:-725px;
+    left:600px;
+}
+  .gb{     
+border-left: 2px solid rgb(14, 20, 14);
+  height: 40px;
+  position: absolute;
+  left: 1030px;
+  margin-left: -3px;
+  top: 10px;
+  }
+  .pra{
+    background-color:white;
+    width: 30px;
+    position: relative;
+    left: 180px;
+    top :-30px;
+    padding-left: 10px;
+    padding-right: px;
+  }
+  .em:hover{
+    background-color: rgba(245, 232, 232, 0.527) ;
+  }
+  .pa:hover{
+    background-color: rgba(245, 232, 232, 0.527) ;
+  }
+  .bp:hover{
+    background-color: rgba(245, 232, 232, 0.527) ;
+  }
+  .mp:hover{
+    background-color: rgba(245, 232, 232, 0.527) ;
+  }
+  .sin:hover{
+    background-color: #aec7df;
+  }
+  .peo{
+    position:relative;
+    left: 90px;
+    top: 10px;
+  }
+  .rr{
+    position: relative;
+    left: 6px;
+  }
